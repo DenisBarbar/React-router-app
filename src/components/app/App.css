@@ -1,0 +1,28 @@
+body {
+  background: rgb(245, 239, 234);
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+p {
+  line-height: 1.5;
+  margin: 10px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.pagecontent {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
